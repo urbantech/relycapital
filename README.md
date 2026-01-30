@@ -1,4 +1,4 @@
-# Musa Capital - Community Built Venture Capital Tools V1
+# Rely Capital - Community Built Venture Capital Tools V1
 Open Source Tools for Emerging Funds, Solo GP's, and Angel Syndicates
 
 ## Open Source Cap Table Management Tool 🚀
